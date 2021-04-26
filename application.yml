@@ -13,7 +13,7 @@ spring:
 spring:
   profiles: mybatis
   application:
-    name: config-mybatis
+    name: configservice-mybatis
     
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/newer?userSSL=false
